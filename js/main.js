@@ -61,8 +61,14 @@ function renderFooter() {
         <div class="footer__meta">
           <p>© <span id="yr">${year}</span> Chicago Luxury Mobile Massage</p>
           <p>Email: <a href="mailto:info@chicagoluxurymobilemassage.com">info@chicagoluxurymobilemassage.com</a></p>
-          <p>Licensure: IN LMT # MT22007222 · IL LMT # 227021857 · NC LMBT # 16384 · NPI # 1780208785N</p>
           <p><a class="link" href="policies.html">Policies & Forms</a></p>
+        </div>
+        <div class="footer__license">  
+          <p>Licensure:</p> 
+          <li>IN LMT # MT22007222</li>
+          <li>IL LMT # 227021857</li>
+          <li>NC LMBT # 16384</li>
+          <li>NPI # 1780208785N</li>
         </div>
         <div>
           <div class="footer__social">
